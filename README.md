@@ -9,10 +9,11 @@
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=mebrahimi12&label=Profile%20views&color=0e75b6&style=flat" alt="mebrahimi12" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mebrahimi494" target="blank"><img src="https://img.shields.io/twitter/follow/mebrahimi494?logo=twitter&style=for-the-badge" alt="mebrahimi494" /></a> </p>
+- 👩🏽‍💻 I started as a developer in 2021
 
 - 🌱 I’m currently learning **Java Backend at Code to Inspire**
 
-- 💬 Ask me about **Python , Java , c++**
+- 💬 Ask me about whatever you want. I am interested in helping and sharing.
 
 - 📫 How to reach me **m.ebrahimi12@outlook.com**
 
