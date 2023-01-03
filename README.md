@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ebrahimi</h1>
 <h1 align="center">بسلامتی🍷پایتون دولوپر ها  </h1>
-
-<h3 align="center">Python Developer $ java Developer</h3>
-
-
-<h3> <img align="right" alt="Coding" width="400" src="https://www.quo.digital/static/python-708b5ac0115ddf9730087ceb075e9679.gif">
+<p>
+  <a href="https://www.linkedin.com/mebrahimi494" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  </a>
+</p>
 
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=mebrahimi12&label=Profile%20views&color=0e75b6&style=flat" alt="mebrahimi12" /> </p>
 
@@ -18,14 +19,10 @@
 
 - 📫 How to reach me **m.ebrahimi12@outlook.com**
 
-- 📄 Know about my experiences [linkedin.com/in/mebrahimi12/](linkedin.com/in/mebrahimi12/)
-
-- ⚡ Fun fact **I am a witty person 😁**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mebrahimi494" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mebrahimi494" height="70" width="100" /></a>
-<a href="https://linkedin.com/in/mebrahimi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mebrahimi12" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mebrahimi494" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mebrahimi12" height="30" width="40" /></a>
 <a href="https://fb.com/m.ebrahimi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.ebrahimi12" height="30" width="40" /></a>
 <a href="https://instagram.com/m_ebrahimi494" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_ebrahimi494" height="30" width="40" /></a>
 <a href="https://www.behance.net/mebrahimi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mebrahimi12" height="30" width="40" /></a>
@@ -48,7 +45,7 @@
 <div> 
   <a href="https://www.youtube.com/@m.ebrahimi12/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/mebrahimi494/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mebrahimi12/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/mebrahimi494/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
