@@ -1,4 +1,9 @@
-# 💫 About Me:
+
+
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mohammad+Ebrahimi;I'm+23+years+old;I+am+from+Afghanistan,+Herat;I+study+computer+science+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
 👋 Hi, I'm Mohammad Ebrahimi<br><br>I'm a passionate web developer and Python developer with 2 years of experience<br><br>🛠️ My Tech Stack:<br>- Proficiency in Python frameworks such as Django, Flask<br>- Familiarity with Python libraries such as NumPy, Pandas, Scikit-learn, and TensorFlow<br>- Back-end languages: Node.js, Python, Ruby, PHP<br>- Databases: MySQL, PostgreSQL<br>- Version control: Git, GitHub<br><br><br>📫 How to reach me:<br>- Email: m.ebrahimi12@outlook.com<br>- LinkedIn: https://www.linkedin.com/in/mebrahimi494<br>- Facebook: https://www.facebook.com/m.ebrahimi12<br><br>
 
 
@@ -11,6 +16,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=mebrahimi12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mebrahimi12&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mebrahimi12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mebrahimi12&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Mohammad Ebrahimi github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebrahimi12&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TheCodeCreators1&icon=0&color=12)](https://visitcount.itsvg.in)
