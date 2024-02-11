@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8749f2&size=50&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+MOHAMMAD+EBRAHIMI;I'm+23+years+old;I+am+from+Afghanistan,+Herat;)](https://git.io/typing-svg)
 
 
-👋 <br>I'm a passionate Python developer with 2+ years of experience<br><br>🛠️ My Tech Stack:<br>- 💡 Python<br>- 🔍 Web Scraping<br>- 🖥️ Computer Vision<br>- 🤖 Machine Learning<br>- 🖼️ Image Processing<br <br>- 📦 Version Control<br>
+👋 <br>I'm a passionate Python developer with 2+ years of experience<br><br>🛠️ My Tech Stack:<br>- 💡 Python<br>- 🔍 Web Scraping<br>- 🖥️ Computer Vision<br>- 🤖 Machine Learning<br>- 🖼️ Image Processing<br> <br>- 📦 Version Control<br>
 
 
 ## 🌐 Socials:
